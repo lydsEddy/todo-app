@@ -7,7 +7,7 @@
 }
 
 body {
-  background: rgba(105, 105, 105) 100%;
+  background: #fff;
 }
 .todo-app {
   display: flex;
